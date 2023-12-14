@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.element {
+  height: calc(100vh - 20px);
+  /* 假设上边距为20px */
+}
